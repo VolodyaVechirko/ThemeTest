@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appbarOverlay" format="reference"/>
+    <attr name="popupOverlay" format="reference"/>
+    <attr name="statusBarCompat" format="color|reference"/>
+</resources>
